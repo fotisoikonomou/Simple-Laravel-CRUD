@@ -1,0 +1,48 @@
+<?php
+
+return [
+    'create_user' => 'Create User',
+    'edit_user' => 'Edit User',
+    'edit_role' => 'Edit Role',
+    'update_role' =>'Update',
+    'edit' => 'Edit Role',
+    'delete' => 'Delete Role',
+    'create_role' => 'Create Role',
+    'roles_list' => 'Roles',
+    'users_list' => 'Users List',
+    'roles' => 'Roles',
+    'logout' => 'Logout',
+    'Login' => 'Login',
+    'id' => 'id',
+    'name' => 'Name',
+    'username' => 'User Name',
+    'email' => 'email',
+    'active' => 'status',
+    'actions' => 'Actions',
+    'name_required' => 'name is required it cant be empty',
+    'username_required' => 'user name is required it cant be empty',
+    'password' => 'password',
+    'confirm_password' => 'confirm_password',
+    'Save_User' => 'Save User',
+    'cancel' => 'cancel',
+
+    'login' => 'Login',
+    'username' => 'Username',
+    'password' => 'Password',
+    'english' => 'English',
+    'greek' => 'Ελληνικά',
+    'entrance' => 'You are logged in!!',
+
+    'dashboard' => 'Dashboard',
+
+    'user_management' => 'User Management Home page ',
+    'Please log in to access the dashboard.'=> 'Please log in to access the dashboard.',
+    'user_deleted_success' => 'User has been successfully deleted.',
+    'user_updated_success' =>'User updated successfully',
+    'Leave_blank_to_keep_the_current_password' =>'Leave blank to keep the current password',
+    'roles_deleted_success' =>'Role has been successfully deleted.',
+    'role_updated_success' =>'Role updated successfully.',
+    'role_deleted_success' =>'Role deleted successfully',
+    'activeyes' =>'Active',
+    'nonactive' =>'Inactive'
+];
